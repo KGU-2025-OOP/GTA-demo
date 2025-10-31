@@ -1,4 +1,4 @@
-package tiledmap;
+package java.tiledmap;
 
 public class Importer {
 }
